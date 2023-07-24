@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renzosj
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning things
+- 👀 I’m interested in Web-App Development, Game Design, and Writing
+- 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on your stuff?
 - 📫 How to reach me @rcsanjuan96@gmail.com
 
