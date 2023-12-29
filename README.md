@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-App Development, Game Design, and Writing
 - 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on your stuff?
-- 📫 How to reach me @rcsanjuan96@gmail.com
+- 📫 Contact me @ renzosanjuan@proton.me
 
 <!---
 renzosj/renzosj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
